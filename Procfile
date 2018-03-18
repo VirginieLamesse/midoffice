@@ -1,0 +1,1 @@
+web: gunicorn fteros_project.wsgi --log-file -
